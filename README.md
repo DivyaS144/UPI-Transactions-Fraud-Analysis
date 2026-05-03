@@ -87,6 +87,13 @@ Alert types, detection timestamps, resolution tracking
 
 ---
 
+## 🧩 Data Model
+
+The data model represents relationships between customers, transactions, devices, merchants, and fraud alerts.
+
+<img width="1268" height="811" alt="Image" src="https://github.com/user-attachments/assets/c15a4532-cd6b-4f6b-a9c2-f56bcefadebc" />
+---
+
 ## Dashboard Pages
 
 ### 1️⃣ Executive Overview
