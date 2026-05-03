@@ -98,7 +98,16 @@ Alert types, detection timestamps, resolution tracking
 
 Tracks overall system performance and trends.
 
+### Executive Overview
+
+<img width="1323" height="744" alt="Image" src="https://github.com/user-attachments/assets/ee42e558-577c-4349-8d95-7806d6eaa9e0" />
 ---
+
+
+### Fraud Analysis
+
+<img width="1322" height="747" alt="Image" src="https://github.com/user-attachments/assets/ae8c920a-06a5-4ed9-860c-f11a34302045" />
+
 
 ### 2️⃣ Transaction & Regional Analysis
 
